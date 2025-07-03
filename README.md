@@ -19,7 +19,7 @@ The user inputs the radius and the central angle in degrees, and the program com
 The area is calculated using the formula:
 
 ```
-Area = ( PI * (Radius * Radius) * Angle ) / 360
+Area = ( PI * (Radius * Radius) * Angle ) / 360 
 ```
 
 ---
